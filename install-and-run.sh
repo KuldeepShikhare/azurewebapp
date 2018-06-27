@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $1
+echo "Nice to meet you"
